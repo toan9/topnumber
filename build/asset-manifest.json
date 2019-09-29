@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "toan9.github.io/game/static/css/main.d8acae8c.chunk.css",
+    "main.js": "toan9.github.io/game/static/js/main.47b5cf15.chunk.js",
+    "main.js.map": "toan9.github.io/game/static/js/main.47b5cf15.chunk.js.map",
+    "runtime-main.js": "toan9.github.io/game/static/js/runtime-main.efacea10.js",
+    "runtime-main.js.map": "toan9.github.io/game/static/js/runtime-main.efacea10.js.map",
+    "static/js/2.4e583f39.chunk.js": "toan9.github.io/game/static/js/2.4e583f39.chunk.js",
+    "static/js/2.4e583f39.chunk.js.map": "toan9.github.io/game/static/js/2.4e583f39.chunk.js.map",
+    "index.html": "toan9.github.io/game/index.html",
+    "precache-manifest.a230f2fee6eaede759f09c6d73758046.js": "toan9.github.io/game/precache-manifest.a230f2fee6eaede759f09c6d73758046.js",
+    "service-worker.js": "toan9.github.io/game/service-worker.js",
+    "static/css/main.d8acae8c.chunk.css.map": "toan9.github.io/game/static/css/main.d8acae8c.chunk.css.map",
+    "static/media/styles.css": "toan9.github.io/game/static/media/background-index.2668738e.png"
+  }
+}
